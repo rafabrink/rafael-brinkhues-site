@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { Menu, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 const Header = () => {
@@ -18,13 +17,26 @@ const Header = () => {
 
   const isActive = (href) => location.pathname === href
 
+  // Ícones SVG simples em vez de lucide-react
+  const MenuIcon = () => (
+    <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+    </svg>
+  )
+
+  const XIcon = () => (
+    <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  )
+
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+    <header className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="text-xl font-bold text-primary">
+            <div className="text-xl font-bold text-slate-900">
               Rafael Brinkhues
             </div>
           </Link>
@@ -35,10 +47,10 @@ const Header = () => {
               <Link
                 key={item.name}
                 to={item.href}
-                className={`text-sm font-medium transition-colors hover:text-primary ${
+                className={`text-sm font-medium transition-colors hover:text-slate-900 ${
                   isActive(item.href)
-                    ? 'text-primary border-b-2 border-primary'
-                    : 'text-muted-foreground'
+                    ? 'text-slate-900 border-b-2 border-slate-900'
+                    : 'text-slate-600'
                 }`}
               >
                 {item.name}
@@ -53,7 +65,7 @@ const Header = () => {
             className="md:hidden"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
-            {isMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+            {isMenuOpen ? <XIcon /> : <MenuIcon />}
           </Button>
         </div>
 
@@ -65,10 +77,10 @@ const Header = () => {
                 <Link
                   key={item.name}
                   to={item.href}
-                  className={`block px-3 py-2 text-base font-medium transition-colors hover:text-primary ${
+                  className={`block px-3 py-2 text-base font-medium transition-colors hover:text-slate-900 ${
                     isActive(item.href)
-                      ? 'text-primary bg-primary/10'
-                      : 'text-muted-foreground'
+                      ? 'text-slate-900 bg-slate-100'
+                      : 'text-slate-600'
                   }`}
                   onClick={() => setIsMenuOpen(false)}
                 >
@@ -84,4 +96,3 @@ const Header = () => {
 }
 
 export default Header
-
