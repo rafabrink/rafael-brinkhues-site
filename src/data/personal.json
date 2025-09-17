@@ -1,0 +1,55 @@
+{
+  "name": "Rafael Alfonso Brinkhues",
+  "title": "Professor e Pesquisador em Gestão de Sistemas de Informação",
+  "tagline": "Especialista em Transformação Digital e Capacidades Organizacionais",
+  "bio": "Doutor em Administração com ênfase em Sistemas de Informação pela Universidade Federal do Rio Grande do Sul, com período sanduíche na University of Memphis (EUA). Possui experiência em gestão estratégica da informação, transformação digital e capacidades organizacionais. Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Campus Viamão, cedido para Universidade Federal do Rio Grande do sul em colaboração técnica.",
+  "contact": {
+    "email": "rafael.brinkhues@viamao.ifrs.edu.br",
+    "phone": "+55 (51) 98254-9731",
+    "location": "Porto Alegre, RS",
+    "website": "www.rafaelbrinkhues.com"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/rafael-brinkhues",
+    "googleScholar": "https://scholar.google.com/citations?user=rafael-brinkhues",
+    "orcid": "https://orcid.org/0000-0000-0000-0000",
+    "researchGate": "https://www.researchgate.net/profile/Rafael-Brinkhues",
+    "lattes": "http://lattes.cnpq.br/8148233971755487"
+  },
+  "languages": [
+    { "language": "Inglês", "level": "Fluente" },
+    { "language": "Espanhol", "level": "Fluente" },
+    { "language": "Italiano", "level": "Intermediário" },
+    { "language": "Francês", "level": "Básico" },
+    { "language": "Catalão", "level": "Básico" }
+  ],
+  "expertise": [
+    {
+      "area": "Gestão Estratégica da Informação",
+      "description": "Capacidades de gestão da informação e seu impacto na vantagem competitiva das organizações"
+    },
+    {
+      "area": "Transformação Digital",
+      "description": "Estratégias de transformação digital e capacidades organizacionais"
+    },
+    {
+      "area": "Business Intelligence",
+      "description": "Implementação de sistemas e processos para análise de dados"
+    },
+    {
+      "area": "Governança de Dados",
+      "description": "Políticas, processos e tecnologias para gestão eficiente de dados"
+    },
+    {
+      "area": "Capacidades Organizacionais",
+      "description": "Desenvolvimento de capacidades dinâmicas e competências organizacionais"
+    }
+  ],
+  "stats": {
+    "experience": "15+",
+    "publications": "50+",
+    "projects": "10+",
+    "supervisions": "20+"
+  }
+}
+

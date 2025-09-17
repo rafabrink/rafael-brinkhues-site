@@ -1,0 +1,115 @@
+{
+  "education": [
+    {
+      "degree": "Doutorado em Administração",
+      "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "period": "2012 - 2016",
+      "thesis": "A Capacidade de Gestão da Informação como Fonte de Vantagem Competitiva Sustentável da Firma",
+      "advisor": "Prof. Dr. Antônio Carlos Gastaud Maçada",
+      "exchange": "University of Memphis (EUA) - Período sanduíche sob orientação do Prof. William Kettinger"
+    },
+    {
+      "degree": "Mestrado em Administração",
+      "institution": "Pontifícia Universidade Católica do Paraná (PUC/PR)",
+      "period": "2007 - 2009",
+      "thesis": "Vantagem Competitiva Sustentável e o Uso das Tecnologias de Informação e Comunicação",
+      "advisor": "Prof. Dra. Maria Alexandra Viegas Cortez da Cunha"
+    },
+    {
+      "degree": "Graduação em Administração",
+      "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "period": "2001 - 2005",
+      "thesis": "A logística reversa na indústria de defensivos agrícolas",
+      "advisor": "Prof. Paulo Cesar Delayti Motta e Prof. Luiz Carlos Ritter Lund"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Assessor",
+      "organization": "Secretaria Extraordinária da Presidência da República para Apoio à Reconstrução do Rio Grande do Sul",
+      "period": "2024 - Atual",
+      "type": "Servidor Colaborador",
+      "description": "Atuação na gestão, integração e inteligência de dados, articulando informações dos Ministérios para a reconstrução do RS. Sistematização, monitoramento e análise de dados para apoiar a tomada de decisão estratégica."
+    },
+    {
+      "position": "Professor",
+      "organization": "Universidade Federal do Rio Grande do Sul",
+      "period": "2024 - Atual",
+      "type": "Servidor Público em Colaboração Técnica",
+      "description": "Cedido em Colaboração Técnica, atuando no desenvolvimento de pesquisas relacionadas à gestão estratégica de dados e informação, transformação digital e capacidades organizacionais."
+    },
+    {
+      "position": "Professor Colaborador",
+      "organization": "Instituto Educacional Josué de Castro",
+      "period": "2022 - Atual",
+      "type": "Professor Colaborador",
+      "description": "Atuação nos módulos de Processos Gerenciais e Administração da Produção para cursos técnicos, integrando temas organizacionais à realidade de cooperativas populares."
+    },
+    {
+      "position": "Professor",
+      "organization": "Instituto Federal de Educação, Ciência e Tecnologia do RS",
+      "period": "2011 - Atual",
+      "type": "Servidor Público – Docente EBTT - Campus Viamão",
+      "description": "Professor e pesquisador com dedicação exclusiva. Coordenador de Pesquisa, Inovação e Pós-Graduação (2021-2024). Líder do grupo de pesquisa em Tecnologia e Ciências da Decisão."
+    },
+    {
+      "position": "Professor",
+      "organization": "Instituto Federal de Educação, Ciência e Tecnologia de SC",
+      "period": "2010 - 2011",
+      "type": "Servidor Público – Docente EBTT - Campus Gaspar",
+      "description": "Professor e pesquisador com dedicação exclusiva nas áreas de Administração e Ciências Sociais Aplicadas. Coordenador da área de Administração."
+    },
+    {
+      "position": "Coordenador de Crédito",
+      "organization": "Bayer CropScience - Bayer S.A.",
+      "period": "2002 - 2010",
+      "type": "Diretoria de Negócios Sul",
+      "description": "Gestão de crédito corporativo para o agronegócio. Implementação de sistemas de análise de dados para avaliação de risco e tomada de decisão, otimizando processos e reduzindo inadimplência."
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Líder do Tema Estratégia, Capacidades, Investimentos e Governança de Informação e de TI",
+      "organization": "ANPAD - Divisão ADI (Administração da Informação)",
+      "period": "2021-2024"
+    },
+    {
+      "role": "Coordenador de Pesquisa, Inovação e Pós-Graduação",
+      "organization": "IFRS Campus Viamão",
+      "period": "2021-2024"
+    },
+    {
+      "role": "Líder do Grupo de Pesquisa CNPq",
+      "organization": "Tecnologia e Ciências da Decisão",
+      "period": "Atual"
+    },
+    {
+      "role": "2º Líder do Grupo de Pesquisa CNPq",
+      "organization": "Capacidades de Informação e de Tecnologia Digital",
+      "period": "Atual"
+    }
+  ],
+  "awards": [
+    {
+      "award": "Menção Honrosa - Melhor Trabalho da Divisão ATI",
+      "organization": "XLVIII Encontro da ANPAD",
+      "year": "2024"
+    },
+    {
+      "award": "Selected for Spotlight Session – Outstanding Paper Presentation",
+      "organization": "AMCIS 2023 - Association for Information Systems",
+      "year": "2023"
+    },
+    {
+      "award": "Menção Honrosa - Melhor Trabalho da Divisão ADI",
+      "organization": "XLV EnANPAD",
+      "year": "2021"
+    },
+    {
+      "award": "Trabalho Indicado ao Prêmio do V EnADI",
+      "organization": "Encontro de Administração da Informação - ANPAD",
+      "year": "2015"
+    }
+  ]
+}
+

@@ -1,0 +1,139 @@
+{
+  "journals": [
+    {
+      "id": "pub001",
+      "title": "CAPABILITIES ON BUSINESS PERFORMANCE: DOES IT MATTER?",
+      "authors": ["José Carlos da Silva Freitas Jr.", "Antonio Carlos Gastaud Maçada", "Rafael Alfonso Brinkhues"],
+      "journal": "BAR - Brazilian Administration Review",
+      "year": 2024,
+      "volume": "21",
+      "pages": "1-14",
+      "type": "journal",
+      "area": "gestao-informacao",
+      "tags": ["capacidades", "desempenho-organizacional", "gestao-informacao"]
+    },
+    {
+      "id": "pub002",
+      "title": "ECOSSISTEMA DIGITAL: O ELO PERDIDO ENTRE A ESTRATÉGIA E O DESEMPENHO FINANCEIRO",
+      "authors": ["José Carlos da Silva Freitas Junior", "Antonio Carlos Gastaud Maçada", "Rafael Alfonso Brinkhues", "Yves Wanderley Estanislau da Costa Netto"],
+      "journal": "Revista Alcance – Eletrônica",
+      "year": 2023,
+      "volume": "30",
+      "pages": "73-90",
+      "type": "journal",
+      "area": "transformacao-digital",
+      "tags": ["ecossistema-digital", "estrategia", "desempenho-financeiro"]
+    },
+    {
+      "id": "pub003",
+      "title": "SENSING AND RESPONSIVENESS: DIGITAL CAPABILITIES TO FACE THE CHALLENGES OF THE DIGITAL ECONOMY",
+      "authors": ["José Carlos da Silva Freitas Jr.", "Antonio Carlos Gastaud Maçada", "Diego Borba", "Rafael Alfonso Brinkhues"],
+      "journal": "REMARK - Revista Brasileira de Marketing",
+      "year": 2023,
+      "volume": "23",
+      "pages": "1-9",
+      "type": "journal",
+      "area": "capacidades-digitais",
+      "tags": ["capacidades-digitais", "economia-digital", "responsividade"]
+    },
+    {
+      "id": "pub004",
+      "title": "Life interrupted, but performance improved: Rethinking the influence of technology-mediated interruptions at work and personal life",
+      "authors": ["Antonio Carlos Gastaud Maçada", "José Carlos da Silva Freitas Junior", "Rafael Alfonso Brinkhues", "Sílvio de Vasconcellos"],
+      "journal": "International Journal of Professional Business Review",
+      "year": 2021,
+      "volume": "7",
+      "pages": "e0279",
+      "type": "journal",
+      "area": "tecnologia-trabalho",
+      "tags": ["interrupcoes-tecnologicas", "desempenho", "vida-pessoal"]
+    },
+    {
+      "id": "pub005",
+      "title": "A Influência da Capacidade de Gestão da Informação na Vantagem Competitiva Sustentável da Firma: Estudo de Casos Múltiplos de Empresas Brasileiras Líderes de Mercado",
+      "authors": ["Antonio Carlos Gastaud Maçada", "Rafael Alfonso Brinkhues", "José Carlos da Silva Freitas Jr."],
+      "journal": "RBGN-Revista Brasileira de Gestao de Negocios",
+      "year": 2020,
+      "volume": "22",
+      "pages": "876-899",
+      "type": "journal",
+      "area": "gestao-informacao",
+      "tags": ["gestao-informacao", "vantagem-competitiva", "casos-multiplos"]
+    },
+    {
+      "id": "pub006",
+      "title": "THE ROLE OF INFORMATION MANAGEMENT CAPABILITY ON IMPLEMENTATION OF BIG DATA STRATEGY",
+      "authors": ["Antonio Carlos Gastaud Maçada", "Rafael Alfonso Brinkhues", "José Carlos da Silva Freitas Jr."],
+      "journal": "RAE-Revista de Administracao de Empresas",
+      "year": 2019,
+      "volume": "59",
+      "pages": "379-388",
+      "type": "journal",
+      "area": "big-data",
+      "tags": ["big-data", "gestao-informacao", "estrategia"]
+    }
+  ],
+  "conferences": [
+    {
+      "id": "conf001",
+      "title": "Inércia do Conhecimento e seu Efeito no Comportamento Workaround: Um Estudo na Capacidade de Improvisação Organizacional no Contexto do Trabalho Remoto",
+      "authors": ["A. N. Martins", "A. V. Pinto", "Antonio Carlos Gastaud Maçada", "Rafael Alfonso Brinkhues"],
+      "conference": "XLV Encontro da ANPAD",
+      "year": 2021,
+      "location": "Evento On-line",
+      "type": "conference",
+      "area": "comportamento-organizacional",
+      "tags": ["trabalho-remoto", "improvisacao", "conhecimento"]
+    },
+    {
+      "id": "conf002",
+      "title": "Digital Transformation: Understanding the Leadership Skills Needed",
+      "authors": ["José Carlos da Silva Freitas Junior", "Patrícia Martins Fagundes Cabral", "Rafael Alfonso Brinkhues", "Georgiana Motta Costa"],
+      "conference": "Twenty-Sixth Americas Conference on Information Systems",
+      "year": 2020,
+      "location": "Salt Lake City",
+      "type": "conference",
+      "area": "lideranca-digital",
+      "tags": ["transformacao-digital", "lideranca", "habilidades"]
+    },
+    {
+      "id": "conf003",
+      "title": "Sensing and Responsiveness: Digital Capabilities to Face the Challenges of the Digital Economy",
+      "authors": ["José Carlos da Silva Freitas Jr.", "Rafael Alfonso Brinkhues"],
+      "conference": "VII Encontro de Administração da Informação - EnADI 2020",
+      "year": 2020,
+      "location": "São Paulo",
+      "type": "conference",
+      "area": "capacidades-digitais",
+      "tags": ["capacidades-digitais", "economia-digital", "responsividade"]
+    }
+  ],
+  "areas": [
+    {
+      "id": "gestao-informacao",
+      "name": "Gestão da Informação",
+      "description": "Capacidades de gestão da informação e seu impacto organizacional"
+    },
+    {
+      "id": "transformacao-digital",
+      "name": "Transformação Digital",
+      "description": "Estratégias e capacidades para transformação digital"
+    },
+    {
+      "id": "capacidades-digitais",
+      "name": "Capacidades Digitais",
+      "description": "Desenvolvimento de capacidades digitais organizacionais"
+    },
+    {
+      "id": "big-data",
+      "name": "Big Data",
+      "description": "Implementação e gestão de estratégias de Big Data"
+    },
+    {
+      "id": "business-intelligence",
+      "name": "Business Intelligence",
+      "description": "Sistemas e processos de inteligência de negócios"
+    }
+  ]
+}
+

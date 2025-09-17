@@ -1,0 +1,115 @@
+{
+  "active": [
+    {
+      "id": "proj001",
+      "title": "Estratégia de Dados e seus efeitos nas capacidades de gestão da informação e de monetização para vantagem competitiva",
+      "description": "Projeto que investiga como a estratégia de dados influencia as capacidades organizacionais de gestão da informação e monetização, moderado pela governança de dados e cultura data driven.",
+      "funding": "CNPq",
+      "grantNumber": "406045/2021-6",
+      "period": "2022 - 2025",
+      "budget": "R$ 150.000,00",
+      "status": "active",
+      "team": ["Rafael Alfonso Brinkhues", "José Carlos Silva Freitas Junior", "Antonio Carlos Gastaud Maçada"],
+      "area": "gestao-informacao",
+      "type": "research"
+    },
+    {
+      "id": "proj002",
+      "title": "Capacidade de Gestão da Informação: um estudo aplicado no Observatório de Desenvolvimento Territorial do IFRS",
+      "description": "Aplicação das dimensões da Capacidade de Gestão da Informação no Observatório de Desenvolvimento Territorial, utilizando abordagem intervencionista para melhoria de processos organizacionais.",
+      "funding": "PIBIC/PIBIC-Af/PIBIC-EM/IFRS/CNPq - PROBIC/IFRS/Fapergs",
+      "period": "2021 - 2023",
+      "status": "active",
+      "team": ["Rafael Alfonso Brinkhues", "José Carlos Silva Freitas Junior", "Maira Bae Baladao Vieira", "Sergio Kapron"],
+      "area": "gestao-informacao",
+      "type": "applied-research"
+    }
+  ],
+  "completed": [
+    {
+      "id": "proj003",
+      "title": "Pesquisa-Ação para o Redesenho da Gestão da Informação do Processo de Manutenção da Coopernorte",
+      "description": "Desenvolvimento de Framework de Gestão da Informação com uso de Ambidextria de Tecnologia da Informação para aumento da Agilidade no processo de manutenção e reestabelecimento da rede de energia elétrica.",
+      "funding": "FAPERGS",
+      "period": "2020 - 2023",
+      "budget": "R$ 200.000,00",
+      "status": "completed",
+      "team": ["Rafael Alfonso Brinkhues", "Antonio Carlos Gastaud Maçada", "Pietro Cunha Dolci", "José Carlos Silva Freitas Junior"],
+      "area": "gestao-informacao",
+      "type": "applied-research",
+      "partner": "COOPERATIVA REGIONAL DE DISTRIBUIÇÃO DE ENERGIA DO LITORAL NORTE"
+    },
+    {
+      "id": "proj004",
+      "title": "Liderança e Transformação Digital: desenvolvendo competências de liderança nas organizações locais",
+      "description": "Projeto focado no desenvolvimento de competências de liderança para transformação digital em organizações locais, utilizando metodologias inovadoras de capacitação.",
+      "funding": "CNPq - PROBITI/IFRS/Fapergs",
+      "period": "2020 - 2022",
+      "status": "completed",
+      "team": ["Rafael Alfonso Brinkhues", "José Carlos Silva Freitas Junior", "Silvana Kissmann"],
+      "area": "lideranca-digital",
+      "type": "technological-development"
+    },
+    {
+      "id": "proj005",
+      "title": "Capacidades de TI sua influência nas Capacidades de Gestão da Informação e nas Capacidades Digitais",
+      "description": "Investigação sobre como as capacidades de TI influenciam as capacidades de gestão da informação e digitais, e suas relações com o desempenho organizacional e vantagem competitiva sustentável.",
+      "funding": "CNPq",
+      "grantNumber": "425677/2016-8",
+      "period": "2016 - 2019",
+      "status": "completed",
+      "team": ["Rafael Alfonso Brinkhues", "Antonio Carlos Gastaud Maçada", "José Carlos Silva Freitas Junior"],
+      "area": "capacidades-ti",
+      "type": "research"
+    },
+    {
+      "id": "proj006",
+      "title": "Capacidades de Tecnologia e da Gestão da Informação e suas Relações para o Incremento do Valor da TI",
+      "description": "Estudo sobre as relações entre capacidades de tecnologia e gestão da informação para incremento do valor da TI nas organizações.",
+      "funding": "CNPq",
+      "grantNumber": "409347/2013-2",
+      "period": "2013 - 2016",
+      "status": "completed",
+      "team": ["Rafael Alfonso Brinkhues", "Antonio Carlos Gastaud Maçada"],
+      "area": "valor-ti",
+      "type": "research"
+    }
+  ],
+  "researchGroups": [
+    {
+      "name": "Tecnologia e Ciências da Decisão",
+      "role": "Líder",
+      "institution": "CNPq",
+      "description": "Grupo focado em criar, disseminar e utilizar conhecimento para aprimorar a tomada de decisões gerenciais envolvendo sistemas e pessoas.",
+      "lines": [
+        "Aplicação profissional das ciências da decisão",
+        "Integração de conhecimentos tecnológicos e gerenciais"
+      ]
+    },
+    {
+      "name": "Capacidades de Informação e de Tecnologia Digital",
+      "role": "2º Líder",
+      "institution": "CNPq",
+      "description": "Grupo de pesquisa focado no desenvolvimento de capacidades organizacionais relacionadas à informação e tecnologia digital.",
+      "lines": [
+        "Capacidades de gestão da informação",
+        "Transformação digital organizacional"
+      ]
+    }
+  ],
+  "fundingAgencies": [
+    {
+      "name": "CNPq",
+      "fullName": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "projects": 5,
+      "totalFunding": "R$ 500.000,00"
+    },
+    {
+      "name": "FAPERGS",
+      "fullName": "Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul",
+      "projects": 3,
+      "totalFunding": "R$ 300.000,00"
+    }
+  ]
+}
+
